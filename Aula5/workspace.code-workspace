@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Segundo Semestre\\Programação Web - Alcides - Quarta\\Aulas"
+		},
+		{
+			"path": "..\\..\\..\\..\\Segundo Semestre\\Programação Orientada ao Objeto - POO - Sexta\\Youtube"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\github_cursos\\cursos\\Cursos\\javascript_moderno_udemy"
+		},
+		{
+			"path": "..\\..\\..\\..\\Segundo Semestre\\Projeto Interdisciplinar"
+		},
+		{
+			"path": "..\\..\\..\\..\\Segundo Semestre\\Programação Web - Alcides - Quarta\\Prova"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aula_js"
+	}
+}
